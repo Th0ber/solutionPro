@@ -1,0 +1,45 @@
+body {
+  display: inline;
+  justify-content: space-around;
+  overflow: hidden;
+  background-color: rgb(218, 248, 249);
+  margin: auto;
+  text-align: center;
+  align-items: center;
+}
+
+ul {
+list-style: none;
+}
+
+li {
+font-family: Impact;
+color: #11114E;
+padding: center;
+font-size: 30px;
+/*position: absolute;
+bottom: 0;
+right: 0;
+left: 0;*/
+}
+
+a {
+text-decoration: none;
+color: #11114E;
+}
+
+#logo {
+margin: auto;
+align-items: center;
+text-align: center;
+display: flex;
+justify-content: center;
+}
+
+#services {
+  margin: auto;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}

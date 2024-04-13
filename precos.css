@@ -1,0 +1,12 @@
+body {
+    display: inline;
+    justify-content: space-around;
+    background-color: rgb(218, 248, 249);
+    margin: auto;
+    text-align: center;
+    align-items: center;
+}
+
+#precos {
+    padding-top: 50px;
+}

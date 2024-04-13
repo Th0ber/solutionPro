@@ -1,0 +1,58 @@
+body {
+  display: inline;
+  justify-content: space-around;
+  background-color: rgb(218, 248, 249);
+  margin: auto;
+  text-align: center;
+  align-items: center;
+}
+
+ul {
+list-style: none;
+}
+
+li {
+font-family: Impact;
+color: #11114E;
+padding: center;
+font-size: 30px;
+/*position: absolute;
+bottom: 0;
+right: 0;
+left: 0;*/
+}
+
+a {
+text-decoration: none;
+color: #11114E;
+}
+
+#logo {
+margin: auto;
+align-items: center;
+text-align: center;
+display: flex;
+justify-content: center;
+}
+
+.portifolio {
+  display: block;
+  width: 300px;
+  height: 150px;
+  margin: 20px auto;
+  text-decoration: none;
+  background-color: #11114E;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.portifolio:hover {
+  transform: scale(1.1);
+  background-color: #11114E;
+}
+
+h3 {
+  color: white;
+  padding-top: 40px;
+}

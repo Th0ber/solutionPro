@@ -1,0 +1,30 @@
+body {
+    display: inline;
+    justify-content: space-around;
+    background-color: rgb(218, 248, 249);
+    margin: auto;
+    text-align: center;
+    align-items: center;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  font-family: Impact;
+  color: #11114E;
+  padding: 50px;
+  font-size: 30px;
+}
+
+.voltar {
+  text-decoration: none;
+  color: #11114E;
+}
+
+.icon {
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+}
