@@ -1,12 +1,36 @@
 body {
-    display: inline;
-    justify-content: space-around;
     background-color: rgb(218, 248, 249);
-    margin: auto;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
     align-items: center;
 }
 
-#precos {
-    padding-top: 50px;
+#imgprecos {
+    height: 600px;
+}
+
+@media (min-width: 430px) {
+    #imgprecos {
+        width: 430px;
+        height: 500px;
+    }
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+    
+li {
+    font-family: Impact;
+    color: #11114E;
+    padding: 80px;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #11114E;
 }
