@@ -5,9 +5,10 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
-#imgprecos {
+/* #imgprecos {
     height: 600px;
 }
 
@@ -16,7 +17,7 @@ body {
         width: 430px;
         height: 500px;
     }
-}
+} */
 
 ul {
     list-style: none;
@@ -33,4 +34,11 @@ li {
 a {
     text-decoration: none;
     color: #11114E;
+}
+
+h1 {
+    font-family: Impact;
+    color: black;
+    padding: 80px;
+    font-size: 30px;
 }
