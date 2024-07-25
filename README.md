@@ -1,4 +1,4 @@
-Modelo de landing page (página comercial) que eu fiz
+Modelo de landing page (página comercial) que eu fiz:
 
 
 ![Captura de Tela (80)](https://github.com/user-attachments/assets/0212e85a-c271-4c7e-86fd-192366ddbffd)
